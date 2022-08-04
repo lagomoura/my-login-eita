@@ -18,31 +18,9 @@ function Footer() {
 	function handleSubmit(e) {
 		e.preventDefault();
 		if (!handleEmail(email)) {
-			Toastify({
-				text: `Por favor, agregar un email valido.`,
-				duration: 2000,
-				newWindow: true,
-				close: true,
-				gravity: 'bottom', // `top` or `bottom`
-				position: 'right', // `left`, `center` or `right`
-				stopOnFocus: true, // Prevents dismissing of toast on hover
-				style: {
-					background: 'linear-gradient(to right, red, #fc9d39)',
-				},
-			}).showToast();
+			alert("Por favor, agregar un email valido")
 		} else {
-			Toastify({
-				text: `Email enviado correctamente`,
-				duration: 2000,
-				newWindow: true,
-				close: true,
-				gravity: 'bottom', // `top` or `bottom`
-				position: 'right', // `left`, `center` or `right`
-				stopOnFocus: true, // Prevents dismissing of toast on hover
-				style: {
-					background: 'linear-gradient(to right, #141414, #fc9d39)',
-				},
-			}).showToast();
+			alert('Gracias por suscribirte');
 			setEmail('');
 		}
 	}
