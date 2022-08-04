@@ -18,9 +18,9 @@ function Footer() {
 	function handleSubmit(e) {
 		e.preventDefault();
 		if (!handleEmail(email)) {
-			alert("Por favor, agregar un email valido")
+			alert("Por favor, agregar un email válido ⚠️")
 		} else {
-			alert('Gracias por suscribirte');
+			alert('Gracias por suscribirte 🤗');
 			setEmail('');
 		}
 	}
