@@ -27,7 +27,7 @@ function Footer() {
 				position: 'right', // `left`, `center` or `right`
 				stopOnFocus: true, // Prevents dismissing of toast on hover
 				style: {
-					background: 'linear-gradient(to right, #141414s, #fc9d39)',
+					background: 'linear-gradient(to right, red, #fc9d39)',
 				},
 			}).showToast();
 		} else {
@@ -57,25 +57,25 @@ function Footer() {
 					<div className='col-sm-auto col-md-6 col-lg-4 d-flex menu-footer justify-content-center align-items-center mx-0 px-1 my-auto'>
 						<ul>
 							<li>
-								<a href='/home'>INICIO</a>
+								<a href='/'>INICIO</a>
 							</li>
 							<li>
-								<a href='/home'>EL CLUB</a>
+								<a href='/'>EL CLUB</a>
 							</li>
 							<li>
-								<a href='/home'>UNITE</a>
+								<a href='/'>UNITE</a>
 							</li>
 							<li>
-								<a href='/home'>CALENDARIO DE ESTILOS</a>
+								<a href='/'>CALENDARIO DE ESTILOS</a>
 							</li>
 							<li>
-								<a href='/home/contacto'>CONTACTO</a>
+								<a href='/'>CONTACTO</a>
 							</li>
 							<li>
-								<a href='./home/tienda'>TIENDA</a>
+								<a href='./'>TIENDA</a>
 							</li>
 							<li>
-								<a href='/home/contacto'>MI CUENTA</a>
+								<a href='/'>MI CUENTA</a>
 							</li>
 						</ul>
 					</div>
