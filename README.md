@@ -1,4 +1,4 @@
-# Sistea de Login (frontend) - Eita! Club Exclusivo de Cerveza
+# Sistema de Login (frontend) - Eita! Club Exclusivo de Cerveza
 
 Aun sin conexion con server-side.
 
