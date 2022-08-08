@@ -89,16 +89,16 @@ function Footer() {
 						</div>
 					</div>
 					<div className='d-flex col-sm-auto col-md-6 col-lg-4 justify-content-between my-auto mx-auto m-0 redes-logo my-auto py-auto'>
-						<a href='instagra.com' className='p-1'>
+						<a href='instagram.com' className='p-1'>
 							<i className='fab fa-instagram redes-logo' />
 						</a>
-						<a href='youtube.co' className='p-1'>
+						<a href='youtube.com' className='p-1'>
 							<i className='fab fa-youtube redes-logo' />
 						</a>
 						<a href='reddit.com' className='p-1'>
 							<i className='fab fa-reddit redes-logo' />
 						</a>
-						<a href='twitter.co' className='p-1'>
+						<a href='twitter.com' className='p-1'>
 							<i className='fab fa-twitter redes-logo' />
 						</a>
 						<a href='tiktok.com' className='p-1'>

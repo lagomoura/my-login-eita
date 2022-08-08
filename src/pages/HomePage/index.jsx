@@ -562,7 +562,17 @@ export default function HomePage() {
 								aria-labelledby='headingTwelve'
 								data-bs-parent='#accordionExample'>
 								<div className='accordion-body'>
-									<strong>Doc. Brown - American Brown Ale.</strong>Sabor a malta de medio a alto (a menudo con sabores a caramelo, tostado y/o chocolate), con un amargor de medio a medio-alto. El acabado medianamente seco provee un retrogusto con presencia tanto de la malta como del lúpulo. Sabor a lúpulo de suave a moderado, y puede tener opcionalmente un carácter cítrico. Esteres futados de muy bajo a moderado. Diacetilo de nulo a moderadamente bajo. Color de marrón claro a marrón muy oscuro. Cristalina. Espuma de blancuzca a canela baja a moderada. Color de marrón claro a marrón muy oscuro. Cristalina. Espuma de blancuzca a canela baja a moderada.
+									<strong>Doc. Brown - American Brown Ale.</strong>Sabor a malta
+									de medio a alto (a menudo con sabores a caramelo, tostado y/o
+									chocolate), con un amargor de medio a medio-alto. El acabado
+									medianamente seco provee un retrogusto con presencia tanto de
+									la malta como del lúpulo. Sabor a lúpulo de suave a moderado,
+									y puede tener opcionalmente un carácter cítrico. Esteres
+									futados de muy bajo a moderado. Diacetilo de nulo a
+									moderadamente bajo. Color de marrón claro a marrón muy oscuro.
+									Cristalina. Espuma de blancuzca a canela baja a moderada.
+									Color de marrón claro a marrón muy oscuro. Cristalina. Espuma
+									de blancuzca a canela baja a moderada.
 								</div>
 								<a
 									href='/'
@@ -599,7 +609,26 @@ export default function HomePage() {
 								aria-labelledby='headingThirteen'
 								data-bs-parent='#accordionExample'>
 								<div className='accordion-body'>
-									<strong>Fraun Paulinha - German Hefeweizen.</strong>Color pajizo pálido a dorado. Es característica una espuma muy gruesa, como mousse, de larga duración. El alto contenido de proteínas de trigo reduce la cristalinidad en una cerveza no filtrada aunque el nivel de turbidez es algo variable. Bajos a moderadamente-fuertes aromas a banana y clavo de olor. El balance y la intensidad de los fenoles y ésteres pueden variar pero en los mejores ejemplos están balanceados y son bastante prominentes. Opcionalmente, un muy ligero a moderado carácter a vainilla y/o leves notas a goma de mascar pueden acentuar el sabor a banana, el dulzor y la redondez, pero no deben ser dominantes si están presentes. El sabor suave, a algo de pan o granos del trigo es complementario como lo es un leve carácter a grano-dulce de la malta. El sabor del lúpulo va de muy bajo a ninguno, el amargor del lúpulo es muy bajo a moderadamente-bajo. Bien redondeada, con un sabor pleno en el paladar y un final relativamente seco. La percepción de dulzor se debe más a la ausencia de amargor de lúpulo que a la presencia de azúcar residual; un final dulce o pesado podría perjudicar significativamente la tomabilidad.
+									<strong>Fraun Paulinha - German Hefeweizen.</strong>Color
+									pajizo pálido a dorado. Es característica una espuma muy
+									gruesa, como mousse, de larga duración. El alto contenido de
+									proteínas de trigo reduce la cristalinidad en una cerveza no
+									filtrada aunque el nivel de turbidez es algo variable. Bajos a
+									moderadamente-fuertes aromas a banana y clavo de olor. El
+									balance y la intensidad de los fenoles y ésteres pueden variar
+									pero en los mejores ejemplos están balanceados y son bastante
+									prominentes. Opcionalmente, un muy ligero a moderado carácter
+									a vainilla y/o leves notas a goma de mascar pueden acentuar el
+									sabor a banana, el dulzor y la redondez, pero no deben ser
+									dominantes si están presentes. El sabor suave, a algo de pan o
+									granos del trigo es complementario como lo es un leve carácter
+									a grano-dulce de la malta. El sabor del lúpulo va de muy bajo
+									a ninguno, el amargor del lúpulo es muy bajo a
+									moderadamente-bajo. Bien redondeada, con un sabor pleno en el
+									paladar y un final relativamente seco. La percepción de dulzor
+									se debe más a la ausencia de amargor de lúpulo que a la
+									presencia de azúcar residual; un final dulce o pesado podría
+									perjudicar significativamente la tomabilidad.
 								</div>
 								<a
 									href='/'
@@ -636,7 +665,30 @@ export default function HomePage() {
 								aria-labelledby='headingFourteen'
 								data-bs-parent='#accordionExample'>
 								<div className='accordion-body'>
-									<strong>Relativity - German Pils.</strong>Carácter rico a malta a grano-dulce, medio-bajo a bajo (a menudo con un ligero carácter a miel y una cualidad a galleta ligeramente tostado), y lúpulos distintivos especiados, herbales o florales. Perfil de fermentación limpia. Puede tener opcionalmente una ligera nota sulfurosa que proviene tanto del agua como de la levadura. Los lúpulos son de moderadamente- bajos a moderadamente-altos, pero no deben dominar totalmente la presencia de la malta. Los ejemplos unidimensionales son inferiores a las más complejas cualidades cuando se detectan todos los ingredientes. Puede tener una nota de fondo muy baja a DMS. Pajizo a dorado claro, brillante a muy clara, con una espuma blanca cremosa de larga duración. Amargor de lúpulo medio a alto dominando el paladar y perdurando al retrogusto. Moderado a moderadamente-bajo carácter a malta a grano-dulce sostiene el amargor del lúpulo. Sabor a lúpulo bajo a alto, floral, especiado o herbal. Perfil de fermentación limpia. Final seco a medio-seco, chispeante, bien atenuada, con un retrogusto amargo y ligero sabor a malta. Los ejemplos hechos con agua con altos niveles de sulfatos a menudo tienen un bajo sabor azufrado que acentúa la sequedad y alarga el final; esto es aceptable, pero no es obligatorio. Algunas versiones tienen un final suave, con más sabor a malta, pero aún con sabor y amargor evidente, con balance aun hacia el amargor.
+									<strong>Relativity - German Pils.</strong>Carácter rico a
+									malta a grano-dulce, medio-bajo a bajo (a menudo con un ligero
+									carácter a miel y una cualidad a galleta ligeramente tostado),
+									y lúpulos distintivos especiados, herbales o florales. Perfil
+									de fermentación limpia. Puede tener opcionalmente una ligera
+									nota sulfurosa que proviene tanto del agua como de la
+									levadura. Los lúpulos son de moderadamente- bajos a
+									moderadamente-altos, pero no deben dominar totalmente la
+									presencia de la malta. Los ejemplos unidimensionales son
+									inferiores a las más complejas cualidades cuando se detectan
+									todos los ingredientes. Puede tener una nota de fondo muy baja
+									a DMS. Pajizo a dorado claro, brillante a muy clara, con una
+									espuma blanca cremosa de larga duración. Amargor de lúpulo
+									medio a alto dominando el paladar y perdurando al retrogusto.
+									Moderado a moderadamente-bajo carácter a malta a grano-dulce
+									sostiene el amargor del lúpulo. Sabor a lúpulo bajo a alto,
+									floral, especiado o herbal. Perfil de fermentación limpia.
+									Final seco a medio-seco, chispeante, bien atenuada, con un
+									retrogusto amargo y ligero sabor a malta. Los ejemplos hechos
+									con agua con altos niveles de sulfatos a menudo tienen un bajo
+									sabor azufrado que acentúa la sequedad y alarga el final; esto
+									es aceptable, pero no es obligatorio. Algunas versiones tienen
+									un final suave, con más sabor a malta, pero aún con sabor y
+									amargor evidente, con balance aun hacia el amargor.
 								</div>
 								<a
 									href='/'
