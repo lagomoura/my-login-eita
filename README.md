@@ -1,5 +1,18 @@
-# Sistema de Login (frontend) - Eita! Club Exclusivo de Cerveza
+# Sistema de Login - Eita! Club Exclusivo de Cerveza
 
-Aun sin conexion con server-side.
+### Proyecto de practica
 
-README en construccion 💙
+Sin conexion con server-side.
+
+Tecnologias utilizadas:
+
+* HTML
+* CSS
+* JS
+* Bootstrap
+* React (ReacRouterDOM)
+* FontAwesome (icones)
+* Animate (animaciones)
+
+##### Por cualquier eventual bug, sugerencias y/o recomendaciones: mouralago@live.com
+
