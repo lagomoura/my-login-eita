@@ -1,6 +1,6 @@
 # Sistema de Login - Eita! Club Exclusivo de Cerveza
 
-### Proyecto de practica
+### Proyecto de practica en React
 
 Sin conexion con server-side.
 
