@@ -10,9 +10,9 @@ Tecnologias utilizadas:
 * CSS
 * JS
 * Bootstrap
-* React (ReacRouterDOM)
-* FontAwesome (icones)
-* Animate (animaciones)
+* React (ReactRouter)
+* FontAwesome (Iconos)
+* Animate (Animaciones)
 
-##### Por cualquier eventual bug, sugerencias y/o recomendaciones: mouralago@live.com
+##### Por cualquier eventual bug, sugerencia y/o recomendacione: mouralago@live.com
 
